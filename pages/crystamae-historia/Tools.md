@@ -6,20 +6,20 @@
 
 - [基础法术板](./Spell-Plates)
 - [基础魔法板](./Spell-Plates)
-- 基础法杖
-- 高级法杖
-- 神秘法杖
-- 折射棱镜
+- [基础法杖](./Staves)
+- [高级法杖](./Staves)
+- [神秘法杖](./Staves)
+- [折射棱镜](./Refracting-Lens)
 - 魔法盐
-- 魔法传送网
-- 临时工作台
-- 临时融合工作台
-- 发光勺
-- 连接指南针
+- [魔法传送网](./Recalling-Lattice)
+- [临时工作台](./Ephemeral-Tables)
+- [临时融合工作台](./Ephemeral-Tables)
+- [发光勺](./Luminescence-Scoops)
+- [连接指南针](./Connecting-Compass)
 - 强征
-- 置换器 (简易置换器，神秘置换器)
+- [置换器](./Displacer) (简易置换器，神秘置换器)
 - 海绵 (温和海绵，炽热海绵，超大海绵)
 - 符文睡袋
 - 微型虚空裂隙
 - 水晶收纳袋
-- 方块隐藏器
+- [方块隐藏器](./Block-Veil)
